@@ -4,7 +4,7 @@ I'm a technology enthusiast currently working on exciting projects and continuou
 
 ## 📫 Contact
 - Email: snaily@linux.do
-- Blog: https://linux.do/u/snaily/summary
+- LD: https://linux.do/u/snaily/summary
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snailyp&show_icons=true&theme=transparent)
