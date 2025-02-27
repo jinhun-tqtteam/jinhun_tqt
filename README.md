@@ -1,6 +1,6 @@
 # Hi, I'm snaily! 👋
 
-I'm a software developer currently working on exciting projects and continuously learning new technologies. I specialize in Java and Python development and am happy to discuss anything related to these languages.
+I'm a technology enthusiast currently working on exciting projects and continuously learning new technologies. I specialize in Java and Python development and am happy to discuss anything related to these languages.
 
 ## 📫 Contact
 - Email: snaily@linux.do
