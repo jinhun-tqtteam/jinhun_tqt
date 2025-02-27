@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snailyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousazoe&show_icons=true&theme=radical)
 <!--
 **snailyp/snailyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
